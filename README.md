@@ -10,6 +10,9 @@ A comprehensive Data Analytics project focused on identifying road accident patt
 
 **Key Modules:**
     ◦ Module I (Preprocessing): Includes data acquisition, removing duplicates, handling missing values, and normalization/standardization of attributes like Number_of_Vehicles.
+    
     ◦ Module II (Modeling): Implementation of Association Rule Mining (Apriori, FP-Growth), Classification (CART, ID3, C4.5), and Clustering (K-Means, DBSCAN).
+    
     ◦ Module III (Testing): Evaluation of models based on Accuracy, Precision, Recall, and F1 Score, with the CART model achieving a high accuracy of 0.8667.
+    
     ◦ Module IV (Deployment): A user-friendly UI designed for predicting accident severity (Fatal, Serious, or Slight) and visualizing statistical trends through line charts and 3D visualizations
