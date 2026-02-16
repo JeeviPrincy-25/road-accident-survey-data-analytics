@@ -9,6 +9,7 @@ A comprehensive Data Analytics project focused on identifying road accident patt
 **Data Source:** The project utilizes the India Road Accident Dataset from Kaggle, consisting of 59,999 records and 66 attributes.
 
 **Key Modules:**
+
     ◦ Module I (Preprocessing): Includes data acquisition, removing duplicates, handling missing values, and normalization/standardization of attributes like Number_of_Vehicles.
     
     ◦ Module II (Modeling): Implementation of Association Rule Mining (Apriori, FP-Growth), Classification (CART, ID3, C4.5), and Clustering (K-Means, DBSCAN).
